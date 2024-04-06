@@ -1,5 +1,5 @@
 ﻿namespace LegacyApp
-{
+{ 
     public class Client
     {
         public string Name { get; internal set; }
